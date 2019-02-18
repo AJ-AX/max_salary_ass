@@ -30,3 +30,5 @@ In addition to this 'challenging' task, in this assignment you would need to wri
 The only starter code provided for this assignment is an implementation of the Heap’s algorithm for generating all permutations in an array of integers.
 
 <strong>Please follow the style of the previous 2 programming assignments and use them as a template. It is very important that you learn how to implement algorithms in a consistent way.</strong>
+
+# A graph of the average values of the two algorithmns over a period of 10 tests can be found in Avg. Greedy Time and Avg. Naive Time.png

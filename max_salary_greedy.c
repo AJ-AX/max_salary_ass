@@ -20,7 +20,7 @@ long max_salary_greedy(int a[], int size){
     }
 
     //printf("%d", final_len);
-    char *final = calloc(final_len, sizeof(char));
+    char *final = calloc(final_len, sizeof(char) + 1);
     for(int i = 0; i < size; i++){
         char *part = malloc(len(a[i]) + 1);
         snprintf(part, len(a[i]) + 1, "%d", a[i]);
