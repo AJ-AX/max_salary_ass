@@ -37,7 +37,7 @@ long max_salary_greedy(int a[], int size){
     return final_l;
 }
 
-int main(){
+/*int main(){
 
     int arr[9] = {121, 1, 3, 4, 5, 628, 87, 98, 999};
     long z = max_salary_greedy(arr, 9);
@@ -45,4 +45,4 @@ int main(){
     printf("%ld", z);
 
     return 0;
-}
+}*/
